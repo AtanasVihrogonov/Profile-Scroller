@@ -11,7 +11,7 @@
 * HTML
 
 ## Inspiration
->This is influensed by TheNetNinja .Ch cource "Modern JavaScript"
+>This is influensed by Brad Traversy Udemy cource "Modern JavaScript"
 
 ## Contact
 >Created by [A.Vihrogonov] [Vihrogonov@protonmail.com] - feel free to contact me!
